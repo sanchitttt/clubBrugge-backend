@@ -1,0 +1,75 @@
+[
+    {
+        "_id": "648a27e5ed72d6a000ca3fdf",
+        "name": "Rubber Duck with Fisherman's hat",
+        "rating": 5,
+        "totalReviews": 3,
+        "price": 19,
+        "coverImage": "https://i.ibb.co/3R62nkB/image.png",
+        "details": {
+            "images": [
+                "hhttps://i.ibb.co/3R62nkB/image.png",
+                "https://i.ibb.co/BzHQ7qv/image.png"
+            ],
+            "description": "With this rubber duck you can take a bath with pleasure! The cool blue-black design and the fisherman's hat put a smile on the face of every Club fan.\nSafe and durable material ensures that it can withstand a lot of water play.\nAre you ready for summer?"
+        }
+    },
+    {
+        "_id": "648a27e5ed72d6a000ca3fe0",
+        "name": "Darts Board",
+        "rating": 4,
+        "totalReviews": 2,
+        "price": 85,
+        "coverImage": "https://i.ibb.co/HFRpK8V/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/HFRpK8V/image.png"
+            ],
+            "description": "This Club Burgge dartboard is perfect for fanatical darts players who are also fans of Club Brugge. The dartboard is suitable for both beginners and advanced players and offers endless fun. With this dartboard in your home or in your fancave you are guranteed to impress your friends and family."
+        }
+    },
+    {
+        "_id": "648a27e5ed72d6a000ca3fe1",
+        "name": "Gift Box",
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 10,
+        "coverImage": "https://i.ibb.co/JCS3R0G/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/JCS3R0G/image.png"
+            ],
+            "description": "This cool gift box is ideal as an extra when purchasing a shirt or T-shirt."
+        }
+    },
+    {
+        "_id": "648a27e5ed72d6a000ca3fe2",
+        "name": "Football (size 3)",
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 12,
+        "coverImage": "https://i.ibb.co/5jKNbrj/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/5jKNbrj/image.png",
+                "https://i.ibb.co/BzdPPQV/image.png"
+            ],
+            "description": "This football is ideal for our smaller football fans aged 8 or under (58.5-61cm)"
+        }
+    },
+    {
+        "_id": "648a27e5ed72d6a000ca3fe3",
+        "name": "Slippers NSNG",
+        "rating": 4.2,
+        "totalReviews": 15,
+        "price": 20,
+        "coverImage": "https://i.ibb.co/vDZ5wGc/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/vDZ5wGc/image.png",
+                "https://i.ibb.co/gJnWdzx/image.png"
+            ],
+            "description": "These black Club Brugge bath slippers are a perfect combination of Club love and comfort."
+        }
+    }
+]

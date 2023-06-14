@@ -1,0 +1,369 @@
+[
+    {
+        "_id": "648a2882ed72d6a000ca4023",
+        "fanItemType": "stadium",
+        "type": "scarves",
+        "name": "Scarf Club - SL Benfica (Round of 16)",
+        "price": 15,
+        "rating": 4,
+        "totalReviews": 11,
+        "coverImage": "https://i.ibb.co/zX1KxSY/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/zX1KxSY/image.png",
+                "https://i.ibb.co/GR4w0P5/image.png"
+            ],
+            "description": "For the first time in our blue-black history, we have qualified for the 8th finals of the champion ball! Get the match scarf now and avoid queues at the points of sale around Jan Breydel on match day!"
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca4024",
+        "fanItemType": "stadium",
+        "type": "scarves",
+        "name": "Scarf No Sweat No Glory",
+        "price": 15,
+        "rating": 5,
+        "totalReviews": 1,
+        "coverImage": "https://i.ibb.co/sWMJ4hj/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/sWMJ4hj/image.png",
+                "https://i.ibb.co/tcDZ1Dk/image.png"
+            ],
+            "description": "You'll never walk alone, Wonderwall and so much more. With this scarf you are ready to sing all the songs loudly in the stadium"
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca4025",
+        "fanItemType": "stadium",
+        "type": "scarves",
+        "name": "Scarf YLA",
+        "price": 15,
+        "rating": 5,
+        "totalReviews": 1,
+        "coverImage": "https://i.ibb.co/zS1xcpn/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/zS1xcpn/image.png"
+            ],
+            "description": "This scarf will keep you warm while watching a match of our women's team"
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca4026",
+        "fanItemType": "stadium",
+        "type": "flags",
+        "name": "Flag Champions 2021-2022 (1*1.5m)",
+        "price": 20,
+        "rating": 0,
+        "totalReviews": 0,
+        "coverImage": "https://i.ibb.co/82R4gkB/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/82R4gkB/image.png"
+            ],
+            "description": "A flag that makes clear what we are: champions"
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca4027",
+        "fanItemType": "stadium",
+        "type": "flags",
+        "name": "Flag Heritage Color",
+        "price": 15,
+        "rating": 5,
+        "totalReviews": 5,
+        "coverImage": "https://i.ibb.co/Y3ZjygH/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/Y3ZjygH/image.png"
+            ],
+            "description": "A healthy mind in a healthy body"
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca4028",
+        "fanItemType": "stadium",
+        "type": "flags",
+        "name": "Flag 1891 (1.5 * 1m)",
+        "price": 15,
+        "rating": 5,
+        "totalReviews": 5,
+        "coverImage": "https://i.ibb.co/BsKsxzr/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/BsKsxzr/image.png"
+            ],
+            "description": "A healthy mind in a healthy body"
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca4029",
+        "fanItemType": "stadium",
+        "type": "caps",
+        "name": "Cap Logo Striped",
+        "color": [
+            "blue",
+            "black"
+        ],
+        "price": 15,
+        "rating": 0,
+        "totalReviews": 0,
+        "coverImage": "https://i.ibb.co/BsKsxzr/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/BsKsxzr/image.png"
+            ],
+            "description": "A healthy mind in a healthy body"
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca402a",
+        "fanItemType": "stadium",
+        "type": "caps",
+        "name": "Cap Logo Grey",
+        "color": [
+            "grey"
+        ],
+        "price": 20,
+        "rating": 4,
+        "totalReviews": 5,
+        "coverImage": "https://i.ibb.co/wz2c327/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/wz2c327/image.png",
+                "https://i.ibb.co/X8c6TM3/image.png"
+            ]
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca402b",
+        "fanItemType": "stadium",
+        "type": "caps",
+        "name": "Cap RFCB Heritage",
+        "color": [
+            "black"
+        ],
+        "price": 20,
+        "rating": 4,
+        "totalReviews": 4,
+        "coverImage": "https://i.ibb.co/rdh1Mkw/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/yyYYq0c/image.png",
+                "https://i.ibb.co/dD3mmKh/image.png",
+                "https://i.ibb.co/ysSSP1j/image.png"
+            ]
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca402c",
+        "fanItemType": "stadium",
+        "type": "beanies",
+        "name": "Beanie 1891 navy",
+        "color": [
+            "navy"
+        ],
+        "price": 20,
+        "rating": 0,
+        "totalReviews": 0,
+        "coverImage": "https://i.ibb.co/R0jZbwG/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/R0jZbwG/image.png",
+                "https://i.ibb.co/V97BSRs/image.png"
+            ],
+            "description": "With this hip beanie,navy with 1891, you are ready to come to Jan Breydel even in ice-cold conditions."
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca402d",
+        "fanItemType": "stadium",
+        "type": "beanies",
+        "name": "Beanie Navy Striped",
+        "color": [
+            "navy"
+        ],
+        "price": 20,
+        "rating": 0,
+        "totalReviews": 0,
+        "coverImage": "https://i.ibb.co/7JT5ynW/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/7JT5ynW/image.png",
+                "https://i.ibb.co/F3gZYSX/image.png"
+            ],
+            "description": "With this blue-black striped beanie, you are ready to come to Jan Breydel even in ice-cold conditions."
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca402e",
+        "fanItemType": "stadium",
+        "type": "beanies",
+        "name": "Muts Away Days",
+        "color": [
+            "white",
+            "navy"
+        ],
+        "price": 20,
+        "rating": 0,
+        "totalReviews": 0,
+        "coverImage": "https://i.ibb.co/x6Jd5rz/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/x6Jd5rz/image.png",
+                "https://i.ibb.co/DgTB5xr/image.png"
+            ],
+            "description": "With this hat, in the same motif as our away shirts, you to come to Jan Breydel even in ice-cold conditions."
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca402f",
+        "fanItemType": "stadium",
+        "type": "beanies",
+        "name": "Club Burgee PVC",
+        "price": 5,
+        "rating": 5,
+        "totalReviews": 1,
+        "coverImage": "https://i.ibb.co/Xj7WCR0/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/Xj7WCR0/image.png",
+                "https://i.ibb.co/MNtCtkb/image.png"
+            ],
+            "description": "Brighten up your fridge with this Club Brugge magnet"
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca4030",
+        "fanItemType": "european",
+        "type": "scarves",
+        "name": "Banner Round of 16",
+        "price": 15,
+        "rating": 3,
+        "totalReviews": 2,
+        "coverImage": "https://i.ibb.co/5B0kG3Y/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/5B0kG3Y/image.png",
+                "https://i.ibb.co/mF5tVN7/image.png"
+            ],
+            "description": "A banner in honor of our first winner in UEFA Champions League"
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca4031",
+        "fanItemType": "european",
+        "type": "scarves",
+        "name": "Scarf Club - FC Porto",
+        "price": 15,
+        "rating": 3,
+        "totalReviews": 2,
+        "coverImage": "https://i.ibb.co/CvsrHMz/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/CvsrHMz/image.png"
+            ],
+            "description": "Porto away. What a night we had there with the 0-4 win and a first 6 out of 6 in our Champions Leagure history.\nGet this souvenir and help us to attract the home match against the Portuguese."
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca4032",
+        "fanItemType": "european",
+        "type": "scarves",
+        "name": "Scarf Club - Bayer Leverkusen",
+        "price": 15,
+        "rating": 3,
+        "totalReviews": 2,
+        "coverImage": "https://i.ibb.co/Cs7BNcz/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/Cs7BNcz/image.png"
+            ],
+            "description": "In group B of the Champions League we meet the German tradition team Bayer Leverkusen, where our former defender Odilon Koussounou is in the team."
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca4033",
+        "fanItemType": "european",
+        "type": "scarves",
+        "name": "Banner Round of 16",
+        "price": 15,
+        "rating": 3,
+        "totalReviews": 2,
+        "coverImage": "https://i.ibb.co/5B0kG3Y/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/5B0kG3Y/image.png",
+                "https://i.ibb.co/mF5tVN7/image.png"
+            ],
+            "description": "A banner in honor of our first winner in UEFA Champions League"
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca4034",
+        "fanItemType": "goldenShoes",
+        "type": "scarves",
+        "name": "Scarf Golden Shoe",
+        "price": 15,
+        "rating": 5,
+        "totalReviews": 4,
+        "coverImage": "https://i.ibb.co/vP7yP0M/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/vP7yP0M/image.png",
+                "https://i.ibb.co/HnPTFsf/image.png"
+            ],
+            "description": "Did it. Our Simon Mignolet is the golden shoe of 2022! A feat as a keeper and after more than 30 years the rightful successor to Micheal Preud'homme."
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca4035",
+        "fanItemType": "goldenShoes",
+        "type": "tshirt",
+        "name": "T-Shirt Golden Shoes Adults",
+        "price": 22,
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 5,
+        "genderType": "all",
+        "totalReviews": 1,
+        "coverImage": "https://i.ibb.co/bFSzXvZ/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/bFSzXvZ/image.png",
+                "https://i.ibb.co/6sS8RBm/image.png"
+            ],
+            "description": "Did it. Our Simon Mignolet is the golden shoe of 2022! A feat as a keeper and after more than 30 years the rightful successor to Micheal Preud'homme."
+        }
+    },
+    {
+        "_id": "648a2882ed72d6a000ca4036",
+        "fanItemType": "goldenShoes",
+        "type": "tshirt",
+        "name": "T-Shirt Golden Shoes Kids",
+        "price": 22,
+        "availableUnits": {
+            "128": 10,
+            "140": 10,
+            "152": 10
+        },
+        "rating": 0,
+        "genderType": "all",
+        "totalReviews": 0,
+        "coverImage": "https://i.ibb.co/5k3dxK5/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/5k3dxK5/image.png",
+                "https://i.ibb.co/6sS8RBm/image.png"
+            ],
+            "description": "Did it. Our Simon Mignolet is the golden shoe of 2022! A feat as a keeper and after more than 30 years the rightful successor to Micheal Preud'homme."
+        }
+    }
+]

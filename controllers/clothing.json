@@ -1,0 +1,1206 @@
+[
+    {
+        "_id": "648a282ded72d6a000ca3fe5",
+        "clothingType": "sportswear",
+        "name": "Training t-short navy 22/23",
+        "color": [
+            "navy"
+        ],
+        "type": "tshirt",
+        "availableUnits": {
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10,
+            "4XL": 10
+        },
+        "rating": 5,
+        "totalReviews": 3,
+        "price": 35,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/Sv1Mxxz/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/Sv1Mxxz/image.png",
+                "https://i.ibb.co/TqsvQQp/image.png",
+                "https://i.ibb.co/G0gbnwC/image.png",
+                "https://i.ibb.co/RhFGxpW/image.png"
+            ],
+            "description": "Our staff has navy as the main color this year. With this they make the difference between players and coaches clear. This t-shirt has a nice footbal print as a visual effect. Will we see you in this outfit soon?\nThe light blue accents on the side match the navy training pants and bermuda shorts (with pockets).\n Also available as a sweater",
+            "characteristics": "• This is the clothes in which the coaches give training,\n• Top quality from the Italian Macro, •\n 100% polyester,\n• Comfortable and breathable fabric: Macro Performance System\n• Available in size S to 5XL"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3fe6",
+        "clothingType": "sportswear",
+        "name": "Training t-shirt blue 21/22",
+        "color": [
+            "navy"
+        ],
+        "type": "tshirt",
+        "availableUnits": {
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 0,
+            "3XL": 10,
+            "4XL": 0
+        },
+        "rating": 5,
+        "totalReviews": 2,
+        "price": 25,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/qsP6zs9/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/qsP6zs9/image.png",
+                "https://i.ibb.co/8dWwZGD/image.png",
+                "https://i.ibb.co/jk78f4W/image.png"
+            ],
+            "description": "With this training T-shirt you feel like the new Hans Vanaken on the field!"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3fe7",
+        "clothingType": "sportswear",
+        "name": "Training t-shirt light blue 22/23",
+        "color": [
+            "lightBlue"
+        ],
+        "type": "tshirt",
+        "availableUnits": {
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 0,
+            "3XL": 10,
+            "4XL": 0
+        },
+        "rating": 5,
+        "totalReviews": 3,
+        "price": 35,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/SKdF3QP/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/SKdF3QP/image.png",
+                "https://i.ibb.co/VqFz64D/image.png",
+                "https://i.ibb.co/f2tKfqV/image.png"
+            ],
+            "description": "Will you soon be training in the same outfit as our players? Our player's training collection is bright light blue. This summery color offers the players a cool shirt and brings some innovation to the sports offer. The navy accents on the side match the navy track pants and bermuda shorts (with pockets).\nAlso available as a sweater.",
+            "characteristics": "• This is the clothes in which the coaches give training,\n• Top quality from the Italian Macro, •\n 100% polyester,\n• Comfortable and breathable fabric: Macro Performance System\n• Available in size S to 5XL"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3fe8",
+        "clothingType": "sportswear",
+        "name": "Training t-shirt  blue 22/23",
+        "color": [
+            "lightBlue"
+        ],
+        "type": "tshirt",
+        "availableUnits": {
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 5,
+        "totalReviews": 3,
+        "price": 35,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/ZG4xTsy/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/ZG4xTsy/image.png",
+                "https://i.ibb.co/XZ8BSHk/image.png",
+                "https://i.ibb.co/wK62j19/image.png"
+            ],
+            "description": "With this training T-shirt you will feel like the new Ferran Jutgla on the field!"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3fe9",
+        "clothingType": "sportswear",
+        "name": "Training t-shirt grey kids",
+        "color": [
+            "grey"
+        ],
+        "type": "tshirt",
+        "availableUnits": {
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 0,
+            "3XL": 0
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 22,
+        "genderType": "kids",
+        "coverImage": "https://i.ibb.co/fDVMT08/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/fDVMT08/image.png"
+            ]
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3fea",
+        "clothingType": "sportswear",
+        "name": "Training t-shirt black kids 22/23",
+        "color": [
+            "black"
+        ],
+        "type": "tshirt",
+        "availableUnits": {
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 0,
+            "3XL": 0
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 22,
+        "genderType": "kids",
+        "coverImage": "https://i.ibb.co/TcJhqWM/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/TcJhqWM/image.png"
+            ]
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3feb",
+        "clothingType": "sportswear",
+        "name": "Polo black adult 22/23",
+        "color": [
+            "black"
+        ],
+        "type": "polo",
+        "availableUnits": {
+            "S": 10,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 0,
+            "3XL": 0
+        },
+        "rating": 4,
+        "totalReviews": 6,
+        "price": 30,
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/sjh0FFt/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/sjh0FFt/image.png",
+                "https://i.ibb.co/S3TPYzn/image.png",
+                "https://i.ibb.co/BjXSj7Y/image.png"
+            ]
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3fec",
+        "clothingType": "sportswear",
+        "name": "Polo blue adult 21/22",
+        "color": [
+            "blue"
+        ],
+        "type": "polo",
+        "availableUnits": {
+            "S": 10,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 0,
+            "3XL": 0
+        },
+        "rating": 5,
+        "totalReviews": 2,
+        "price": 25,
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/GMNvw4Y/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/GMNvw4Y/image.png",
+                "https://i.ibb.co/tDwZ6P8/image.png",
+                "https://i.ibb.co/JQLtRQq/image.png"
+            ],
+            "description": "Want to be stylishly dressed and support your favorite football club at the same time? This polo is the perfect combination"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3fed",
+        "clothingType": "sportswear",
+        "name": "Polo macron kids 19/20",
+        "color": [
+            "red"
+        ],
+        "type": "polo",
+        "availableUnits": {
+            "128": 10,
+            "140": 10,
+            "152": 0,
+            "164": 10
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 22,
+        "genderType": "kids",
+        "coverImage": "https://i.ibb.co/DbKJxJG/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/DbKJxJG/image.png"
+            ],
+            "description": "Burgandy polo. Kids sizes. 50% cotton, 50% polyester"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3fee",
+        "clothingType": "sportswear",
+        "name": "Polo black kids 22/23",
+        "color": [
+            "black"
+        ],
+        "type": "polo",
+        "availableUnits": {
+            "128 - JS": 10,
+            "140 - JM": 10,
+            "152 - JU": 0,
+            "164 - JXL": 10
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 27,
+        "genderType": "kids",
+        "coverImage": "https://i.ibb.co/6vq61Bv/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/6vq61Bv/image.png",
+                "https://i.ibb.co/7XRQp0y/image.png"
+            ],
+            "description": "The black polo is part of the training collection 22/23. Will you wear it soon too?"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3fef",
+        "clothingType": "sportswear",
+        "name": "Polo blue macron adult",
+        "color": [
+            "blue"
+        ],
+        "type": "polo",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "XL": 10
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 50,
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/PYT1tL0/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/PYT1tL0/image.png"
+            ]
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ff0",
+        "clothingType": "sportswear",
+        "name": "Hoodie blue adult 22/23",
+        "color": [
+            "blue"
+        ],
+        "type": "hoodie",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 0,
+            "3XL": 10
+        },
+        "rating": 4,
+        "totalReviews": 4,
+        "price": 45,
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/PYT1tL0/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/PYT1tL0/image.png",
+                "https://i.ibb.co/TYhqV7B/image.png",
+                "https://i.ibb.co/PMGNjTT/image.png"
+            ],
+            "description": "This blue hoodie is ideal to wear inside and outside Jan Breydel."
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ff1",
+        "clothingType": "sportswear",
+        "name": "Hoodie macron yla 22/23",
+        "color": [
+            "black"
+        ],
+        "type": "hoodie",
+        "availableUnits": {
+            "XS": 10,
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 0
+        },
+        "rating": 5,
+        "totalReviews": 1,
+        "price": 66,
+        "genderType": "women",
+        "coverImage": "https://i.ibb.co/xMqbZn7/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/xMqbZn7/image.png",
+                "https://i.ibb.co/k6HbMhg/image.png",
+                "https://i.ibb.co/kBYg6C5/image.png"
+            ],
+            "description": "With this hoodie you show that you are a real YLA fan!"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ff2",
+        "clothingType": "sportswear",
+        "name": "Travel jacket hoodie navy adult 22/23",
+        "color": [
+            "black"
+        ],
+        "type": "hoodie",
+        "availableUnits": {
+            "XS": 10,
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 0,
+            "3XL": 0
+        },
+        "rating": 5,
+        "totalReviews": 1,
+        "price": 66,
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/nkBF6V7/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/nkBF6V7/image.png",
+                "https://i.ibb.co/JpgKTDt/image.png",
+                "https://i.ibb.co/nccTSxk/image.png",
+                "https://i.ibb.co/tqPXbF6/image.png"
+            ],
+            "description": "With this hoodie you show that you are a real YLA fan!"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ff3",
+        "clothingType": "sportswear",
+        "name": "Sweater zip navy 22/23",
+        "color": [
+            "lightBlue"
+        ],
+        "type": "sweater",
+        "availableUnits": {
+            "XS": 10,
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 10,
+            "3XL": 10,
+            "4XL": 10
+        },
+        "rating": 4,
+        "totalReviews": 6,
+        "price": 49,
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/SJ5B7fZ/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/SJ5B7fZ/image.png",
+                "https://i.ibb.co/y0pQ8rJ/image.png",
+                "https://i.ibb.co/9bJrpY2/image.png"
+            ],
+            "description": "Will you soon be training in the same outfit as our players? Our player's training collection is bright light blue. The sweater is the complement to the t-shirt, where the round neck is a change with the past seasons. The navy accents on the side match the navy track pants and bermuda shorts (with pockets).",
+            "characteristics": "• Match quality: this is the shirt the players wear on the pitch,\n• No Sweat No Glory is embroidered in the neck, 1891 subtly on the side of the shirt,.\nTop quality from the Italian Macron,\n• 100% polyester,\n•Comfortable and breathable fabric: Macron Performance System,\n• Available in size S to 5XL,\n"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ff4",
+        "clothingType": "sportswear",
+        "name": "Sweater dames macron 1891",
+        "color": [
+            "black"
+        ],
+        "type": "sweater",
+        "availableUnits": {
+            "XS": 10,
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 10,
+            "3XL": 10,
+            "4XL": 10
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 65,
+        "genderType": "women",
+        "coverImage": "https://i.ibb.co/ZcNzH4d/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/ZcNzH4d/image.png",
+                "https://i.ibb.co/2cLDMy1/image.png"
+            ],
+            "description": "An ode to the legendary year 1891. This sweater will keep you warm while watching a club YLA game."
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ff5",
+        "clothingType": "sportswear",
+        "name": "Sweater zip navy kids 22/23",
+        "color": [
+            "navy"
+        ],
+        "type": "sweater",
+        "availableUnits": {
+            "128 - JS": 10,
+            "140 - JM": 0,
+            "152 - JU": 0,
+            "164 - JXL": 0
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 42,
+        "genderType": "kids",
+        "coverImage": "https://i.ibb.co/XV2SJxp/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/XV2SJxp/image.png"
+            ],
+            "description": "Our staff has navy as the main color this year. With this they make the difference between players and coaches clear. This sweater has ashort zipper and football print effect. The light blue accents on the side match the navy training pants and bermuda shorts. Will we see you in this outfit soon?\n Also available as a t-short",
+            "characteristics": "• This is the clothes in which the coaches give training,\n• Top quality from the Italian Macro, •\n 100% polyester,\n• Comfortable and breathable fabric: Macro Performance System\n• Available in size S to 5XL"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ff6",
+        "clothingType": "sportswear",
+        "name": "Sweater zip black kids 22/23",
+        "color": [
+            "navy"
+        ],
+        "type": "sweater",
+        "availableUnits": {
+            "128 - JS": 10,
+            "140 - JM": 10,
+            "152 - JU": 10
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 42,
+        "genderType": "kids",
+        "coverImage": "https://i.ibb.co/NTHKZk4/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/NTHKZk4/image.png",
+                "https://i.ibb.co/FVT5XzJ/image.png",
+                "https://i.ibb.co/J59BhR0/image.png",
+                "https://i.ibb.co/Pr9rg4d/image.png"
+            ],
+            "description": "During our European campagin, these sweaters are used as 'warm-up' sweaters before the match when we play in our third kit. Will we see you in this outfit soon?\n Also available as a T-shirt.",
+            "characteristics": "• This is the clothes in which the coaches give training,\n• Top quality from the Italian Macro, •\n 100% polyester,\n• Comfortable and breathable fabric: Macro Performance System\n• Available in size JS to JL"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ff7",
+        "clothingType": "sportswear",
+        "name": "Bermuda short adult 22/23",
+        "color": [
+            "navy"
+        ],
+        "type": "trousers",
+        "availableUnits": {
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 10
+        },
+        "rating": 4,
+        "totalReviews": 2,
+        "price": 42,
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/w7gknJD/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/w7gknJD/image.png"
+            ],
+            "description": "The navy bermuda shorts are ideal for training or coming to competitions on sultry summer days."
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ff8",
+        "clothingType": "sportswear",
+        "name": "Pants nxt adults",
+        "color": [
+            "navy"
+        ],
+        "type": "trousers",
+        "availableUnits": {
+            "XS": 10,
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 5,
+        "totalReviews": 1,
+        "price": 42,
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/S5z0Dkw/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/S5z0Dkw/image.png",
+                "https://i.ibb.co/9psSjPx/image.png",
+                "https://i.ibb.co/VqgQ5Q8/image.png"
+            ],
+            "description": "Your next visit to The Nest will be in these NXT pants. This way you are completely in the modern, young look of club NXT"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ff9",
+        "clothingType": "sportswear",
+        "name": "Training pants 22/23",
+        "color": [
+            "navy"
+        ],
+        "type": "trousers",
+        "availableUnits": {
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 10,
+            "3XL": 0
+        },
+        "rating": 5,
+        "totalReviews": 1,
+        "price": 42,
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/zV8K9XC/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/zV8K9XC/image.png"
+            ],
+            "description": "Sharpen your football skills in these navy training pants"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ffa",
+        "clothingType": "sportswear",
+        "name": "Travel Jacket Blue",
+        "color": [
+            "blue"
+        ],
+        "type": "jacket",
+        "availableUnits": {
+            "M": 10,
+            "3XL": 0
+        },
+        "rating": 5,
+        "totalReviews": 1,
+        "price": 37,
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/Q614J1W/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/Q614J1W/image.png"
+            ]
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ffb",
+        "clothingType": "sportswear",
+        "name": "Travel Jacket Hoodie Navy Blue 22/23",
+        "color": [
+            "blue"
+        ],
+        "type": "jacket",
+        "availableUnits": {
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 10,
+            "3XL": 0
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 63,
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/nkBF6V7/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/nkBF6V7/image.png",
+                "https://i.ibb.co/nccTSxk/image.png",
+                "https://i.ibb.co/tqPXbF6/image.png"
+            ],
+            "description": "This travel jacket, with the Club logo on the chest, is ideal to wear inside and outside Jan Breydel"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ffc",
+        "clothingType": "sportswear",
+        "name": "Kids red raincoat",
+        "color": [
+            "red"
+        ],
+        "type": "coat",
+        "availableUnits": {
+            "128": 10,
+            "140": 10
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 60,
+        "genderType": "kids",
+        "coverImage": "https://i.ibb.co/nw5hnYk/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/nw5hnYk/image.png"
+            ],
+            "description": "Staff raincoat from Club Brugge. Kids sizes. 100% polyster"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ffd",
+        "clothingType": "sportswear",
+        "name": "Kids blue raincoat",
+        "color": [
+            "blue"
+        ],
+        "type": "coat",
+        "availableUnits": {
+            "128": 10
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 90,
+        "genderType": "kids",
+        "coverImage": "https://i.ibb.co/sRsrmpc/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/sRsrmpc/image.png",
+                "https://i.ibb.co/WDLBFqN/image.png"
+            ],
+            "description": "Staff raincoat from Club Brugge. Kids sizes. 100% polyster"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3ffe",
+        "clothingType": "sportswear",
+        "name": "Winter coat adult 22/23",
+        "color": [
+            "navy"
+        ],
+        "type": "coat",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 0,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 5,
+        "totalReviews": 3,
+        "price": 54,
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/2S76MrD/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/2S76MrD/image.png",
+                "https://i.ibb.co/FWHTZ3L/image.png",
+                "https://i.ibb.co/v37yJwd/image.png"
+            ],
+            "description": "Long winter coat. Ideal for cheering on your favorite team in the stands, because it also keeps your legs warm"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca3fff",
+        "clothingType": "collection",
+        "collection": "1891",
+        "name": "T-shirt 1891 Refined Black",
+        "color": [
+            "black"
+        ],
+        "availableUnits": {
+            "S": 0,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "type": "tshirt",
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 25,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/TvChdBP/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/TvChdBP/image.png",
+                "https://i.ibb.co/syP9k34/image.png",
+                "https://i.ibb.co/cgxCBQp/image.png"
+            ],
+            "description": "The iconic year 1891. Now processed on a black T-shirt"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca4000",
+        "clothingType": "collection",
+        "collection": "1891",
+        "name": "T-shirt 1891 Refined Sand",
+        "color": [
+            "sand"
+        ],
+        "type": "tshirt",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 4,
+        "totalReviews": 3,
+        "price": 25,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/L8M0RLW/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/L8M0RLW/image.png",
+                "https://i.ibb.co/BrW4hp3/image.png",
+                "https://i.ibb.co/YhQVfYB/image.png",
+                "https://i.ibb.co/fFBp0bc/image.png"
+            ],
+            "description": "The iconic year 1891. Now processed on a black T-shirt"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca4001",
+        "clothingType": "collection",
+        "collection": "1891",
+        "name": "T-shirt 1891 Iconic Dark Grey",
+        "color": [
+            "sand"
+        ],
+        "type": "tshirt",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 5,
+        "totalReviews": 1,
+        "price": 25,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/QbhDzY6/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/QbhDzY6/image.png",
+                "https://i.ibb.co/9sjbsdM/image.png",
+                "https://i.ibb.co/kGQRzz3/image.png"
+            ],
+            "description": "An ode to the legendary year 1891. This dark grey T-shirt shows that you are part of our family."
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca4002",
+        "clothingType": "collection",
+        "collection": "1891",
+        "name": "T-shirt 1891 Iconic White",
+        "color": [
+            "white"
+        ],
+        "type": "tshirt",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 5,
+        "totalReviews": 1,
+        "price": 25,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/JFjdYQP/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/JFjdYQP/image.png"
+            ],
+            "description": "An ode to the legendary year 1891. This white T-shirt shows that you are part of our family."
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca4003",
+        "clothingType": "collection",
+        "collection": "1891",
+        "name": "T-shirt 1891 Iconic Burgandy",
+        "color": [
+            "red"
+        ],
+        "type": "tshirt",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 5,
+        "totalReviews": 1,
+        "price": 25,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/B41nxRx/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/B41nxRx/image.png",
+                "https://i.ibb.co/g9bPgSY/image.png",
+                "https://i.ibb.co/Y2rcZsc/image.png"
+            ],
+            "description": "An ode to the legendary year 1891. This Burgandy T-shirt shows that you are part of our family."
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca4004",
+        "clothingType": "collection",
+        "collection": "1891",
+        "name": "Hoodie 1891 Iconic Grey",
+        "color": [
+            "grey"
+        ],
+        "type": "hoodie",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 5,
+        "totalReviews": 8,
+        "price": 25,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/GFWW081/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/GFWW081/image.png",
+                "https://i.ibb.co/kBdq40K/image.png",
+                "https://i.ibb.co/rxNfDhG/image.png"
+            ],
+            "description": "An ode to the legendary year 1891. This grey hoodie shows that you are part of our family."
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca4005",
+        "clothingType": "collection",
+        "collection": "1891",
+        "name": "Hoodie 1891 Iconic Navy",
+        "color": [
+            "grey"
+        ],
+        "type": "hoodie",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 4,
+        "totalReviews": 7,
+        "price": 25,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/KbjTmTy/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/KbjTmTy/image.png",
+                "https://i.ibb.co/KLG9Pwx/image.png"
+            ],
+            "description": "An ode to the legendary year 1891. This grey hoodie shows that you are part of our family."
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca4006",
+        "clothingType": "collection",
+        "collection": "1891",
+        "name": "Hoodie 1891 Refined Sand",
+        "color": [
+            "sand"
+        ],
+        "type": "hoodie",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 4,
+        "totalReviews": 7,
+        "price": 25,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/P556rb4/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/P556rb4/image.png",
+                "https://i.ibb.co/GpbYBLM/image.png",
+                "https://i.ibb.co/NyKBL5R/image.png"
+            ],
+            "description": "An ode to the legendary year 1891. This refined sand color hoodie shows that you are part of our family."
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca4007",
+        "clothingType": "collection",
+        "collection": "1891",
+        "name": "Hoodie 1891 Refined Skye Blue",
+        "color": [
+            "lightBlue"
+        ],
+        "type": "hoodie",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 5,
+        "totalReviews": 1,
+        "price": 65,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/cvvjnRV/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/cvvjnRV/image.png",
+                "https://i.ibb.co/0sxD46k/image.png",
+                "https://i.ibb.co/d4S4MMd/image.png"
+            ],
+            "description": "This iconic year 1891. Now processed on a light blue hoodie"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca4008",
+        "clothingType": "collection",
+        "collection": "1891",
+        "name": "Hoodie 1891 Iconic Dark Grey",
+        "color": [
+            "darkGrey"
+        ],
+        "type": "hoodie",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 5,
+        "totalReviews": 1,
+        "price": 65,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/WsD7fp0/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/WsD7fp0/image.png",
+                "https://i.ibb.co/vLZP9Xq/image.png",
+                "https://i.ibb.co/8XDPjwQ/image.png"
+            ],
+            "description": "An ode to the legendary year 1891. This black hoodie shows that you are part of our family."
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca4009",
+        "clothingType": "collection",
+        "collection": "1891",
+        "name": "Hoodie 1891 Iconic Burgundy",
+        "color": [
+            "red"
+        ],
+        "type": "hoodie",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 4,
+        "totalReviews": 2,
+        "price": 65,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/VjB5j7N/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/VjB5j7N/image.png",
+                "https://i.ibb.co/V3rrY7Q/image.png",
+                "https://i.ibb.co/wY5vpVG/image.png",
+                "https://i.ibb.co/jg9r7ds/image.png"
+            ],
+            "description": "An ode to the legendary year 1891. This red hoodie shows that you are part of our family."
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca400a",
+        "clothingType": "collection",
+        "collection": "1891",
+        "name": "Sweatpants 1891 Khaki",
+        "color": [
+            "red"
+        ],
+        "type": "trousers",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 4,
+        "totalReviews": 2,
+        "price": 50,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/257hbY7/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/257hbY7/image.png"
+            ],
+            "description": "The iconic year 1891. Now processed on a khaki sweatpants"
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca400b",
+        "clothingType": "collection",
+        "collection": "1891",
+        "name": "Sweatpants 1891 Khaki",
+        "color": [
+            "red"
+        ],
+        "type": "trousers",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 4,
+        "totalReviews": 2,
+        "price": 50,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/bNr134K/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/bNr134K/image.png"
+            ],
+            "description": "The iconic year 1891. Now processed on a navy pants."
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca400c",
+        "clothingType": "collection",
+        "collection": "1891",
+        "name": "Sweatpants 1891 Black",
+        "color": [
+            "black"
+        ],
+        "type": "trousers",
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 50,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/zrGSYsL/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/zrGSYsL/image.png",
+                "https://i.ibb.co/Gxxw9rR/image.png"
+            ],
+            "description": "The iconic year 1891. Now processed on black sweatpants."
+        }
+    },
+    {
+        "_id": "648a282ded72d6a000ca400d",
+        "clothingType": "collection",
+        "collection": "Big Si",
+        "name": "Sweater Big Si",
+        "color": [
+            "black"
+        ],
+        "type": "sweater",
+        "availableUnits": {
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 0,
+            "3XL": 0
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 55,
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/1M1k24x/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/1M1k24x/image.png",
+                "https://i.ibb.co/TktJZ9d/image.png",
+                "https://i.ibb.co/FJhtHdX/image.png"
+            ],
+            "description": "The iconic year 1891. Now processed on black sweatpants."
+        }
+    }
+]

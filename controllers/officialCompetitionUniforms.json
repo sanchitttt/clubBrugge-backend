@@ -1,0 +1,591 @@
+[
+    {
+        "_id": "648a2757ed72d6a000ca3fca",
+        "competitionKit": "home",
+        "availableUnits": {
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 0,
+            "3XL": 0,
+            "4XL": 0,
+            "5XL": 10
+        },
+        "genderType": "men",
+        "price": 59,
+        "color": [
+            "blue",
+            "black"
+        ],
+        "coverImage": "https://i.ibb.co/C8LbtjN/1.webp",
+        "details": {
+            "images": [
+                "https://i.ibb.co/C8LbtjN/1.webp",
+                "https://i.ibb.co/z6Dtbb8/2.webp",
+                "https://i.ibb.co/Xk0X84H/3.webp",
+                "https://i.ibb.co/F6KPD5S/4.webp",
+                "https://i.ibb.co/c82Lb3G/5.webp",
+                "https://i.ibb.co/JFx7fWq/6.webp",
+                "https://i.ibb.co/XsYJQdr/7.webp"
+            ],
+            "description": "The Club Brugge Home Kit is a modern remake of the iconic shirt with which Club became the first Belgian team ever to play in the Champions League.The link with that legendary shirt from '92 is mainly in the retro details:\n        .The collar is a rounded V - neck without buttons,\n        but stands nicely upright.\n        .This year,\n        more stripes and more blue were chosen.\n        .Some subtle elements give the jersey a modern look : from the new 'No Sweat No Glory'\n        logo embroidered in the neck to the blue 1891 at the bottom of the side of the shirt\n        Thanks to Macron 's M Performance System technology, the polyester shirt feels very light. The breathable fabric ensures sufficient cooling during wear and makes it very comfortable to\n        wear.",
+            "characteristics": "Match quality: this is the shirt the players wear on the pitch,\n• No Sweat No Glory is embroidered in the neck, 1891 subtly on the side of the shirt,\n• Top quality from the Italian Macron,\n• 100% polyester,\n• Comfortable and breathable fabric: Macron Performance System,\n• Available in size S to 5XL,\nWash at 30°C - do not tumble dry - do not dry clean - iron at low temperature.",
+            "washingInstructions": "-Wash at 30C\n-Delicate program\n-Do not tumble dry"
+        },
+        "rating": 5,
+        "totalReviews": 15,
+        "name": "Home shirt"
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fcb",
+        "competitionKit": "home",
+        "availableUnits": {
+            "35-38": 10,
+            "39-42": 0,
+            "43-46": 10,
+            "47-50": 10
+        },
+        "genderType": "all",
+        "price": 11,
+        "color": [
+            "blue"
+        ],
+        "rating": 5,
+        "name": "Home socks",
+        "totalReviews": 1,
+        "coverImage": "https://i.ibb.co/2P3K9FF/1.webp",
+        "details": {
+            "images": [
+                "https://i.ibb.co/2P3K9FF/1.webp"
+            ],
+            "description": "The home socks for the 22/23 season are completely blue. The cuff of the stockings is finished with some black, fine stripes. This way they form 1 whole with the shirt and shorts."
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fcc",
+        "competitionKit": "home",
+        "color": [
+            "black"
+        ],
+        "availableUnits": {
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 0,
+            "XXL": 0,
+            "3XL": 0
+        },
+        "rating": 5,
+        "totalReviews": 2,
+        "price": 27,
+        "name": "Home shorts",
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/jvFvYGw/1.webp",
+        "details": {
+            "images": [
+                "https://i.ibb.co/jvFvYGw/1.webp",
+                "https://i.ibb.co/QbZQts2/2.webp",
+                "https://i.ibb.co/vDRksY6/3.webp"
+            ],
+            "description": "The home short for the 22/23 season is black with a striking blue triangle running down the side in a point. The elastic is 'open' at the back and offers an extra comfortable feeling.",
+            "characteristics": "• Match quality: this is the short that the players wear on the field, \n• Top quality of the Italian Macron,\n •100% polyester, \n• Comfortable and breathable fabric: Macro Performance System, \n• Available in size S to 3XL \n• Washing at 30C- must not steam in the dryer  - iron at low temperature"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fcd",
+        "competitionKit": "home",
+        "color": [
+            "black",
+            "blue"
+        ],
+        "availableUnits": {
+            "S": 0,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10,
+            "4XL": 10,
+            "5XL": 10
+        },
+        "rating": 5,
+        "totalReviews": 2,
+        "price": 59,
+        "name": "Home shirt",
+        "genderType": "women",
+        "coverImage": "https://i.ibb.co/3zwFGR4/1.webp",
+        "details": {
+            "images": [
+                "https://i.ibb.co/3zwFGR4/1.webp",
+                "https://i.ibb.co/QbZQts2/2.webp",
+                "https://i.ibb.co/vDRksY6/3.webp",
+                "https://i.ibb.co/c82Lb3G/5.webp",
+                "https://i.ibb.co/JFx7fWq/6.webp",
+                "https://i.ibb.co/XsYJQdr/7.webp"
+            ],
+            "description": "Two Colours, One Family. Do you want to be part of the Blauw-Zwart family? Then our Home Kit is for you!\nThe Club Brugge Home Kit is a modern remake of the iconic shirt with which Club became the first Belgian team ever to play in the Champions League. The link with that legendary shirt from '92 is mainly in the retro details:\n.The collar is a rounded V-neck without buttons, but stands nicely upright. This year, more stripes and more blue were chosen.\n. Some subtle elements give the jersey a modern look: from the new 'No Sweat No Glory' logo embroidered in the neck to the blue 1891 at the bottom of the side of the shirt\nThanks to Macron's M Performance System technology, the polyester shirt feels very light. The breathable fabric ensures sufficient cooling during wear and makes it very comfortable to wear.",
+            "characteristics": "• Match quality: this is the shirt the players wear on the pitch,\n• No Sweat No Glory is embroidered in the neck, 1891 subtly on the side of the shirt,.\nTop quality from the Italian Macron,\n• 100% polyester,\n•Comfortable and breathable fabric: Macron Performance System,\n• Available in size S to 5XL,\n",
+            "washingInstructions": "-Wash at 30C\n-Delicate program\n-Do not tumble dry"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fce",
+        "competitionKit": "away",
+        "color": [
+            "white",
+            "blue"
+        ],
+        "availableUnits": {
+            "S": 0,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10,
+            "4XL": 0,
+            "5XL": 10
+        },
+        "rating": 4,
+        "totalReviews": 15,
+        "price": 59,
+        "name": "Away shirt",
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/GJvvhZT/1.webp",
+        "details": {
+            "images": [
+                "https://i.ibb.co/GJvvhZT/1.webp",
+                "https://i.ibb.co/kQV2XML/2.webp",
+                "https://i.ibb.co/LnQFstJ/3.webp",
+                "https://i.ibb.co/6mjjySW/4.webp"
+            ],
+            "description": "Stylish and bold. We make an impression weverywhere we go. With this new white Away Kit we go full for the three points, wherever. \n In this classic white shirt you see: \n •No Sweat No Glory embroidered standing on the neck \n• 1891 embroidered on the side of the kit \n • A bold Blue-Black pattern on the white shirts",
+            "characteristics": "• Italian top quality from Macron \n •The same shirt in which the players play their matches \n • Slim fit \n • Korean collar \n • Softlock polyester met Micromesh rug (BAIMI)",
+            "washingInstructions": "-Wash at 30C\n-Delicate program\n-Do not tumble dry"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fcf",
+        "competitionKit": "away",
+        "color": [
+            "white",
+            "blue"
+        ],
+        "availableUnits": {
+            "128": 10,
+            "140": 10,
+            "152": 0,
+            "164": 0
+        },
+        "rating": 4,
+        "totalReviews": 6,
+        "price": 49,
+        "name": "Away shirt",
+        "genderType": "kids",
+        "coverImage": "https://i.ibb.co/MNWhdRw/1.webp",
+        "details": {
+            "images": [
+                "https://i.ibb.co/MNWhdRw/1.webp",
+                "https://i.ibb.co/Y2B4xNW/2.webp"
+            ],
+            "description": "Stylish and bold. We make an impression weverywhere we go. With this new white Away Kit we go full for the three points, wherever. \n In this classic white shirt you see: \n •No Sweat No Glory embroidered standing on the neck \n• 1891 embroidered on the side of the kit \n • A bold Blue-Black pattern on the white shirts",
+            "characteristics": "• Italian top quality from Macron \n •The same shirt in which the players play their matches \n • Slim fit \n • Korean collar \n • Softlock polyester met Micromesh rug (BAIMI)",
+            "washingInstructions": "-Wash at 30C\n-Delicate program\n-Do not tumble dry"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fd0",
+        "competitionKit": "away",
+        "color": [
+            "white"
+        ],
+        "availableUnits": {
+            "S": 10,
+            "M": 0,
+            "L": 0,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 5,
+        "totalReviews": 1,
+        "price": 27,
+        "name": "Away shorts",
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/GJBNqf9/1.webp",
+        "details": {
+            "images": [
+                "https://i.ibb.co/GJBNqf9/1.webp"
+            ],
+            "description": "Stylish and bold. We make an impression weverywhere we go. With this new white Away Kit we go full for the three points, wherever. \n In this classic white shirt you see: \n •No Sweat No Glory embroidered standing on the neck \n• 1891 embroidered on the side of the kit \n • A bold Blue-Black pattern on the white shirts",
+            "characteristics": "• Italian top quality from Macron \n •The same shirt in which the players play their matches \n • Slim fit \n • Korean collar \n • Softlock polyester met Micromesh rug (BAIMI)",
+            "washingInstructions": "-Wash at 30C\n-Delicate program\n-Do not tumble dry"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fd1",
+        "competitionKit": "third",
+        "color": [
+            "black"
+        ],
+        "availableUnits": {
+            "S": 10,
+            "M": 10,
+            "L": 10,
+            "XL": 10,
+            "XXL": 0,
+            "3XL": 0,
+            "4XL": 0,
+            "5XL": 0
+        },
+        "rating": 4,
+        "totalReviews": 28,
+        "price": 59,
+        "name": "Third shirt",
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/FbQVVCx/1.webp",
+        "details": {
+            "images": [
+                "https://i.ibb.co/FbQVVCx/1.webp",
+                "https://i.ibb.co/6RCMrpS/2.webp",
+                "https://i.ibb.co/6FnNjY7/3.webp",
+                "https://i.ibb.co/X7YgXVS/4.webp",
+                "https://i.ibb.co/ZgS28vZ/image.png",
+                "https://i.ibb.co/9bG46zC/image.png"
+            ],
+            "description": "For the first time in our history. Full black, Our third shirt completes the seasonal collection in our main colours: blue,black and white. Stylish for any occasion.\n On this shirt you see: \n • A minimalist design with a short collar and a nice fit\n• Just like the home and away shirt 'No Sweat No Glory' embroidered in the neck. 1891 is then again visible on the side\n• A light blue accent that was fished out of S19-20's third shirt and last year's Heritage shirt. It is also fully in line with the current training collection.\n Macron's M Performance System technology completes the design and ensures sufficient cooling and a comfortable feeling.",
+            "characteristics": "Match quality: this is the shirt the players wear on the pitch,\n• No Sweat No Glory is embroidered in the neck, 1891 subtly on the side of the shirt,\n• Top quality from the Italian Macron,\n• 100% polyester,\n• Comfortable and breathable fabric: Macron Performance System,\n• Available in size S to 5XL,\nWash at 30°C - do not tumble dry - do not dry clean - iron at low temperature.",
+            "washingInstructions": "-Wash at 30C\n-Delicate program\n-Do not tumble dry"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fd2",
+        "competitionKit": "third",
+        "color": [
+            "black"
+        ],
+        "availableUnits": {
+            "128 - JS": 10,
+            "149 - JM": 10,
+            "152 - JL": 10,
+            "164 - JXL": 10
+        },
+        "rating": 4,
+        "totalReviews": 4,
+        "price": 49,
+        "name": "Third shirt kids 22/23",
+        "genderType": "kids",
+        "coverImage": "https://i.ibb.co/Y2FNw03/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/FbQVVCx/1.webp",
+                "https://i.ibb.co/TYWwVtz/image.png",
+                "https://i.ibb.co/vD05nWn/image.png",
+                "https://i.ibb.co/M2Kf1sK/image.png"
+            ],
+            "description": "For the first time in our history. Full black, Our third shirt completes the seasonal collection in our main colours: blue,black and white. Stylish for any occasion.\n On this shirt you see: \n • A minimalist design with a short collar and a nice fit\n• Just like the home and away shirt 'No Sweat No Glory' embroidered in the neck. 1891 is then again visible on the side\n• A light blue accent that was fished out of S19-20's third shirt and last year's Heritage shirt. It is also fully in line with the current training collection.\n Macron's M Performance System technology completes the design and ensures sufficient cooling and a comfortable feeling.",
+            "characteristics": "Match quality: this is the shirt the players wear on the pitch,\n• No Sweat No Glory is embroidered in the neck, 1891 subtly on the side of the shirt,\n• Top quality from the Italian Macron,\n• 100% polyester,\n• Comfortable and breathable fabric: Macron Performance System,\n• Available in size S to 5XL,\nWash at 30°C - do not tumble dry - do not dry clean - iron at low temperature.",
+            "washingInstructions": "-Wash at 30C\n-Delicate program\n-Do not tumble dry"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fd3",
+        "competitionKit": "third",
+        "color": [
+            "black"
+        ],
+        "availableUnits": {
+            "128 - JS": 10,
+            "149 - JM": 10,
+            "152 - JL": 10,
+            "164 - JXL": 10
+        },
+        "rating": 4,
+        "totalReviews": 4,
+        "price": 49,
+        "name": "Third shorts kids 22/23",
+        "genderType": "kids",
+        "coverImage": "https://i.ibb.co/km5r6Rp/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/km5r6Rp/image.png"
+            ],
+            "description": "Are you going for a completely black look? These Third shorts complete our brand new Third Kit collection. With these shorts, all eyes will be on your stylish outfit, both in and outside the stadium.\n Thanks to Macron's Performance System technology, the shorts feel very light and also provide sufficient ventilation during exercises.",
+            "characteristics": "• Competition quality\n • Top quality from the Italian Macron,\n•100% polyester,\n•Comfortable and breathable fabric\n•Available in size 128-164\n•Wash at 30C - do not tumble dry - do not dry clean - iron at low temperature"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fd4",
+        "competitionKit": "third",
+        "color": [
+            "black"
+        ],
+        "availableUnits": {
+            "128 - JS": 10,
+            "149 - JM": 10,
+            "152 - JL": 10,
+            "164 - JXL": 10
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 11,
+        "name": "Third socks 22/23",
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/NtCFj8W/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/NtCFj8W/image.png",
+                "https://i.ibb.co/5F9g62r/image.png"
+            ],
+            "description": "The black competititon socks complete our third kit"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fd5",
+        "competitionKit": "keeper",
+        "color": [
+            "yellow"
+        ],
+        "availableUnits": {
+            "128": 10,
+            "140": 10,
+            "152": 10
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 49,
+        "name": "Goalkeeper shirt kids 22/23",
+        "genderType": "kids",
+        "coverImage": "https://i.ibb.co/84b0fpk/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/84b0fpk/image.png",
+                "https://i.ibb.co/hd9gWVS/image.png"
+            ],
+            "description": "Bruges are winning, everywhere we go! This year our goalkeepers will play the away games in this yellow goalkeeper shirt. A fluorescent yellow color was chosen, with a subtle army print on the chest. The print is in grey, which gives it that little bit extra.",
+            "characteristics": "Match quality: this is the shirt the goalkeepers wear on the field,\n• No Sweat No Glory is embroidered in the neck, 1891 subtly on the side of the shirt,\n• Top quality from the Italian Macron,\n• 100% polyester,\n• Comfortable and breathable fabric: Macron Performance System,\n• Available in size S to 5XL,\nWash at 30°C - do not tumble dry - do not dry clean - iron at low temperature.",
+            "washingInstructions": "-Wash at 30C\n-Delicate program\n-Do not tumble dry"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fd6",
+        "competitionKit": "keeper",
+        "color": [
+            "yellow"
+        ],
+        "availableUnits": {
+            "S": 0,
+            "M": 0,
+            "L": 10,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10,
+            "4XL": 0,
+            "5XL": 10
+        },
+        "rating": 5,
+        "totalReviews": 1,
+        "price": 59,
+        "name": "Goalkeeper shirt adult 22/23",
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/TvVdXxm/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/TvVdXxm/image.png",
+                "https://i.ibb.co/Y2YL3mk/image.png",
+                "https://i.ibb.co/XXvLDc4/image.png",
+                "https://i.ibb.co/DW1Bm3C/image.png"
+            ],
+            "description": "Bruges are winning, everywhere we go! This year our goalkeepers will play the away games in this yellow goalkeeper shirt. A fluorescent yellow color was chosen, with a subtle army print on the chest. The print is in grey, which gives it that little bit extra.",
+            "characteristics": "Match quality: this is the shirt the goalkeepers wear on the field,\n• No Sweat No Glory is embroidered in the neck, 1891 subtly on the side of the shirt,\n• Top quality from the Italian Macron,\n• 100% polyester,\n• Comfortable and breathable fabric: Macron Performance System,\n• Available in size S to 5XL,\nWash at 30°C - do not tumble dry - do not dry clean - iron at low temperature.",
+            "washingInstructions": "-Wash at 30C\n-Delicate program\n-Do not tumble dry"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fd7",
+        "competitionKit": "keeper",
+        "color": [
+            "red"
+        ],
+        "availableUnits": {
+            "128": 10,
+            "140": 0,
+            "152": 0
+        },
+        "rating": 5,
+        "totalReviews": 1,
+        "price": 49,
+        "name": "Keeper shirt red kids 22/23",
+        "genderType": "kids",
+        "coverImage": "https://i.ibb.co/hL46S1t/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/hL46S1t/image.png",
+                "https://i.ibb.co/9VM63wy/image.png"
+            ],
+            "description": "In this red shirt, Simon Mignolet defends his goal in his own Jan Breydel stadium this season. It is a beautiful, vibrant red shirt with a striking design on the side that also contains the Macron logo. Do you put all the balls in this new outfit, just like Big Si?",
+            "characteristics": "Match quality: this is the shirt the goalkeepers wear on the field,\n• No Sweat No Glory is embroidered in the neck, 1891 subtly on the side of the shirt,\n• Top quality from the Italian Macron,\n• 100% polyester,\n• Comfortable and breathable fabric: Macron Performance System,\n• Available in size S to 5XL,\nWash at 30°C - do not tumble dry - do not dry clean - iron at low temperature.",
+            "washingInstructions": "-Wash at 30C\n-Delicate program\n-Do not tumble dry"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fd8",
+        "competitionKit": "keeper",
+        "color": [
+            "red"
+        ],
+        "availableUnits": {
+            "128": 10,
+            "140": 0,
+            "152": 0
+        },
+        "rating": 5,
+        "totalReviews": 2,
+        "price": 59,
+        "name": "Keepshirt red shirt 22/23",
+        "genderType": "men",
+        "coverImage": "https://i.ibb.co/412kvNw/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/412kvNw/image.png",
+                "https://i.ibb.co/vvZLNHz/image.png",
+                "https://i.ibb.co/5RsfRQX/image.png",
+                "https://i.ibb.co/9VM63wy/image.png"
+            ],
+            "description": "In this red shirt, Simon Mignolet defends his goal in his own Jan Breydel stadium this season. It is a beautiful, vibrant red shirt with a striking design on the side that also contains the Macron logo. Do you put all the balls in this new outfit, just like Big Si?",
+            "characteristics": "Match quality: this is the shirt the goalkeepers wear on the field,\n• No Sweat No Glory is embroidered in the neck, 1891 subtly on the side of the shirt,\n• Top quality from the Italian Macron,\n• 100% polyester,\n• Comfortable and breathable fabric: Macron Performance System,\n• Available in size S to 5XL,\nWash at 30°C - do not tumble dry - do not dry clean - iron at low temperature.",
+            "washingInstructions": "-Wash at 30C\n-Delicate program\n-Do not tumble dry"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fd9",
+        "competitionKit": "keeper",
+        "color": [
+            "yellow"
+        ],
+        "availableUnits": {
+            "128 - JS": 10,
+            "149 - JM": 10,
+            "152 - JL": 10
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 24,
+        "name": "Goalkeeper short yellow kids 22/23",
+        "genderType": "kids",
+        "coverImage": "https://i.ibb.co/jLNJgtQ/image.png",
+        "details": {
+            "images": [
+                "https: //i.ibb.co/jLNJgtQ/image.png"
+            ],
+            "description": "A goalkeeper outfit is not complete without matching shorts. Will you soon stop all the balls at training?"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fda",
+        "competitionKit": "keeper",
+        "color": [
+            "yellow"
+        ],
+        "availableUnits": {
+            "S": 0,
+            "M": 10,
+            "L": 0,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 10
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 27,
+        "name": "Goalkeeper yellow shorts 22/23 ",
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/KN28YR0/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/KN28YR0/image.png",
+                "https://i.ibb.co/jLNJgtQ/image.png"
+            ],
+            "description": "A goalkeeper outfit is not complete without matching shorts. Will you soon stop all the balls at training?"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fdb",
+        "competitionKit": "keeper",
+        "color": [
+            "red"
+        ],
+        "availableUnits": {
+            "S": 0,
+            "M": 0,
+            "L": 0,
+            "XL": 10,
+            "XXL": 10,
+            "3XL": 0
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 27,
+        "name": "Goalkeeper red shorts 22/23 ",
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/hHPzJZF/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/hHPzJZF/image.png",
+                "https://i.ibb.co/k2GLXF5/image.png"
+            ],
+            "description": "A goalkeeper outfit is not complete without matching shorts. Will you soon stop all the balls at training?"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fdc",
+        "competitionKit": "keeper",
+        "color": [
+            "yellow"
+        ],
+        "availableUnits": {
+            "35-38": 0,
+            "39-42": 10,
+            "43-46": 0,
+            "47-50": 10
+        },
+        "rating": 0,
+        "totalReviews": 0,
+        "price": 11,
+        "name": "Goalkeeper yellow socks 22/23 ",
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/NtCw3s1/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/NtCw3s1/image.png"
+            ],
+            "description": "A goalkeeper outfit is not complete without matching stockings. With these yellow goalkeeper socks, Mignolet keeps all balls out of the goal. You too soon?"
+        }
+    },
+    {
+        "_id": "648a2757ed72d6a000ca3fdd",
+        "competitionKit": "keeper",
+        "color": [
+            "yellow"
+        ],
+        "availableUnits": {
+            "31-34": 10,
+            "35-38": 0,
+            "39-42": 10,
+            "43-46": 10,
+            "47-50": 10
+        },
+        "rating": 5,
+        "totalReviews": 1,
+        "price": 11,
+        "name": "Goalkeeper red socks 22/23 ",
+        "genderType": "all",
+        "coverImage": "https://i.ibb.co/JQKR50T/image.png",
+        "details": {
+            "images": [
+                "https://i.ibb.co/JQKR50T/image.png"
+            ],
+            "description": "A goalkeeper outfit is not complete without matching stockings. With these yellow goalkeeper socks, Mignolet keeps all balls out of the goal. You too soon?"
+        }
+    }
+]
