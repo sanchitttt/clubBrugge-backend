@@ -2,10 +2,18 @@ const express = require('express');
 const { getSummerClothing, getOfficialCompetitionUniforms, getClothing, getFanArticles, getNewClothing } = require('./controllers/productsList.controller');
 const app = express();
 const cors = require('cors');
+const cookieParser = require('cookie-parser');
 const { getFanArticleProduct, getOfficialCompetitionUniformProduct, getSummerProduct, getNewProduct, getClothingProduct } = require('./controllers/product.controller');
 const { getCart, addToCart, deleteFromCart } = require('./controllers/cart.controller');
 
-app.use(cors());
+app.use(cookieParser());
+app.use(
+    cors({
+        origin: `http://localhost:5173`,
+        allowedHeaders: "Set-Cookie,Origin, X-Requested-With, Content-Type, Accept,'Authorization', 'x-csrf-token'",
+        credentials: true,
+    })
+);
 app.use(express.json());
 
 app.get('/summer', getSummerClothing);
@@ -24,6 +32,8 @@ app.get('/officialCompetitionUniformProduct/:_id', getOfficialCompetitionUniform
 app.get('/cart', getCart);
 app.post('/cart', addToCart);
 app.delete('/cart/:productId', deleteFromCart);
+
+
 
 app.use((err, req, res, next) => {
     console.log(err);
