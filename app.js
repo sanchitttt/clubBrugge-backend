@@ -9,7 +9,7 @@ const { getCart, addToCart, deleteFromCart } = require('./controllers/cart.contr
 app.use(cookieParser());
 app.use(
     cors({
-        origin: `http://localhost:5173`,
+        origin: `https://club-brugge.vercel.app`,
         allowedHeaders: "Set-Cookie,Origin, X-Requested-With, Content-Type, Accept,'Authorization', 'x-csrf-token'",
         credentials: true,
     })
